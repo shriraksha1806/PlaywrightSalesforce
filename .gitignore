@@ -1,0 +1,12 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+# Authentication files and secrets
+auth.json
+playwright/.auth/
+playwright/salesforce-profile/
